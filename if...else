@@ -4,7 +4,7 @@ a=int(input("inter a: "))
 b=int(input("inter b: "))
 c=int(input("inter c: "))
 delta=(b*b)-(4*a*c)
-if delta>0:
+if delta>0: 
     x1=float
     x2=float
     x1=(-b+math.sqrt(delta))/2*a
