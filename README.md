@@ -26,4 +26,6 @@ Markdown
 ## Returning from Main
 
 At the end of the `main()` function
+<img width="632" alt="image" src="https://github.com/user-attachments/assets/9b759a31-9845-47ff-9095-50cb5f7338c0" />
+
 
